@@ -22,7 +22,6 @@ body header .header__theme::before {
   content: url(../../src/icons/theme-light.svg);
   display: block;
   width: 12px;
-  height: 12px;
   margin-right: 8px;
 }
 
